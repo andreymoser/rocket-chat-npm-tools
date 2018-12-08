@@ -11,7 +11,7 @@ Rocket.chat app to easily search for npm modules typing `/npm` into conversation
 
 `./node_modules/.bin/rc-apps deploy --url http://localhost:3000 --username test`
 
-*For existing current app add `--update` param*
+*For existing app add `--update` param*
 
 # What's next
 
